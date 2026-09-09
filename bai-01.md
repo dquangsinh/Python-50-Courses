@@ -1,6 +1,6 @@
 ### Bài 01: Làm quen với Python
 ## 1. Giới thiệu về Python
-Python là một ngôn ngữ lập trình bậc cao (high-level), thông dịch (interpreted), hướng đối tượng (object-oriented) và đa范式 (multi-paradigm). Nó được tạo ra bởi Guido van Rossum (thường được gọi là "Bố của Python") và phát hành lần đầu tiên vào năm 1991. Tên của ngôn ngữ này không liên quan đến loài rắn trăn (Python), mà lấy từ tên của một nhóm hài kịch truyền hình Anh Quốc mang tên Monty Python's Flying Circus, mà Guido là một người hâm mộ.
+Python là một ngôn ngữ lập trình bậc cao (high-level), thông dịch (interpreted), hướng đối tượng (object-oriented) và đa mẫu (multi-paradigm). Nó được tạo ra bởi Guido van Rossum (thường được gọi là "Bố của Python") và phát hành lần đầu tiên vào năm 1991. Tên của ngôn ngữ này không liên quan đến loài rắn trăn (Python), mà lấy từ tên của một nhóm hài kịch truyền hình Anh Quốc mang tên Monty Python's Flying Circus, mà Guido là một người hâm mộ.
 
 Mục tiêu thiết kế của Python tập trung vào tính dễ đọc (readability) và sự ngắn gọn (conciseness). Cú pháp của Python cho phép lập trình viên biểu diễn các ý tưởng chỉ với vài dòng code, trong khi ở các ngôn ngữ khác có thể tốn nhiều dòng hơn.
 
