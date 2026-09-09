@@ -7,14 +7,11 @@ Mục tiêu thiết kế của Python tập trung vào tính dễ đọc (readab
 Slogan của Python
 "Simple is better than complex." (Đơn giản luôn tốt hơn phức tạp.)
 
-Bạn có thể xem toàn bộ triết lý thiết kế của Python bằng cách gõ lệnh import this trong môi trường tương tác của Python.
-
->>> import thisThe Zen of Python, by Tim PetersBeautiful is better than ugly.Explicit is better than implicit.Simple is better than complex.Complex is better than complicated.Flat is better than nested.Sparse is better than dense.Readability counts.Special cases aren't special enough to break the rules.Although practicality beats purity.Errors should never pass silently.Unless explicitly silenced.In the face of ambiguity, refuse the temptation to guess.There should be one-- and preferably only one --obvious way to do it.Although that way may not be obvious at first unless you're Dutch.Now is better than never.Although never is often better than *right* now.If the implementation is hard to explain, it's a bad idea.If the implementation is easy to explain, it may be a good idea.Namespaces are one honking great idea -- let's do more of those!
 ## 2. Ưu điểm và Nhược điểm của Python
 # Ưu điểm
 Dễ học và dễ đọc: Cú pháp rõ ràng, trực quan, gần gũi với ngôn ngữ tự nhiên.
 Mã nguồn mở: Python là phần mềm mã nguồn mở (FLOSS), bạn có thể tự do sử dụng, chỉnh sửa và phân phối.
-Khả năng移植 (Cross-platform): Python có thể chạy trên nhiều nền tảng khác nhau (Windows, Linux/Unix, Mac OS X, v.v.).
+Cross-platform: Python có thể chạy trên nhiều nền tảng khác nhau (Windows, Linux/Unix, Mac OS X, v.v.).
 Thư viện chuẩn phong phú: Python đi kèm với một kho thư viện khổng lồ, hỗ trợ sẵn cho nhiều tác vụ như xử lý chuỗi, regex, mạng, threading, GUI, v.v.
 Cộng đồng lớn: Cộng đồng lập trình viên Python rất đông đảo, cung cấp vô số các thư viện bên thứ 3 (PyPI) và hỗ trợ giải đáp thắc mắc rất nhanh.
 # Nhược điểm
