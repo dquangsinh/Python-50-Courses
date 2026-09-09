@@ -20,5 +20,5 @@ Hiện nay, Python được ứng dụng rộng rãi trong phát triển ứng d
 #### Cài đặt môi trường Python
 Để bắt đầu hành trình lập trình với Python, trước tiên bạn cần cài đặt môi trường Python trên máy tính. Nói một cách đơn giản, đó là công cụ dùng để chạy các chương trình Python, thường được gọi là trình thông dịch Python (Python Interpreter). Bạn nên cài đặt phiên bản Python 3, vì đây rõ ràng là sự lựa chọn tối ưu và tiêu chuẩn ở thời điểm hiện tại.
 
-Bạn có thể tìm thấy liên kết tải về và tải xuống trình cài đặt (https://www.python.org/downloads/)[Python 3] tại trang web chính thức của Python.
+Bạn có thể tìm thấy liên kết tải về và tải xuống trình cài đặt (https://www.python.org/downloads/)Python 3 tại trang web chính thức của Python.
 
